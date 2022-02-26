@@ -1,0 +1,144 @@
+.wrapper{
+    width:950px;
+    margin:auto;
+    height:50px;
+   
+    }
+    body{
+    background-image:url("download.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%}
+    .header{
+    
+    height:130vh;
+    background-size:cover;
+    background-position:center center;
+    position:relative}
+     .nav-area{
+         
+         float:right;
+         list-style:none;
+         margin-top:20px;
+     }
+     .nav-area li{
+     display:inline-block;}
+     
+    .nav-area li a{
+         color:#fff;
+         text-decoration: none;
+         padding :5px 20px;
+         font-family:poppins;
+     font-size:20px;}
+    .nav-area li a:hover{
+         background :#FFF;
+     color:#333;}
+    .logo img
+     {
+         margin-top:10px;
+    width:130px;
+    float:left;
+    height:auto;
+         
+     }
+     
+     .button2 input{
+        width:200px;
+        margin:0% 30%;
+       
+        font-size:20px;
+    }
+    .button2{
+        width:200px;
+        margin:0% 30%;
+       
+        font-size:20px;
+    }
+    .button2 table{
+    border-spacing:30px;
+    padding:15px;}
+    
+    .button2 table input {
+        height:30px;
+        width:100px;
+        
+        font-size:15px;
+    }
+     .passengerform{
+        float:center;
+             width:500px;
+        background-color:rgba(0,0,0,0.5);
+        height:auto;
+        margin :3.5% 30.5%;
+    border: 1px solid #ced4da;
+     }
+    .passengerto{
+    
+        margin-top:2px;
+        font-size:30px;
+    }
+    .passengerto label{
+        margin-bottom: 5px;
+        margin-top:2px;
+        font-size:25px;
+    color:white;
+   
+    }
+    .passengerto select{
+         box-shadow:0 10px 55px;
+         font-size :13px;
+         padding:1em 4em 1em 1.5em;
+         background:white;
+         color:black;
+         border:0
+         
+     }
+    
+    .passengerfrom{
+    
+        margin-top:10px;
+        font-size:30px;
+    padding:10px;}
+    .passengerfrom label{
+        margin-bottom: 5px;
+        margin-top:5px;
+        font-size:25px;
+    color:white;
+    }
+    .passengerform select{
+         box-shadow:0 10px 55px;
+         font-size :13px;
+         padding:1em 4em 1em 1.5em;
+         background:white;
+         color:black;
+         border:0;
+         
+     }
+     .time table select{
+        box-shadow:0 10px 55px;
+        font-size :13px;
+        padding:1em 4em 1em 1.5em;
+        background:white;
+        color:black;
+        border:0;
+        
+
+     }
+     .time table label{
+    
+     margin-bottom: 5px;
+     margin-top:5px;
+     font-size:20px;
+ color:white;
+ padding:10px;}
+ .passengerform table label{
+     font-size:20px;
+ }
+     .passengerform table{
+        margin-top:5px;
+        border-spacing:14px;
+        height:20px;
+  width:400px;
+    
+     }
+     
+    

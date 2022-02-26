@@ -1,0 +1,162 @@
+.wrapper{
+width:950px;
+margin:auto;
+height:150px;
+
+}
+body{
+background-image:url("download.jpg");
+
+
+background-size:100% 100%;}
+.header{
+
+height:130vh;
+background-size:cover;
+background-position:center center;
+position:relative}
+ .nav-area{
+	 
+	 float:right;
+	 list-style:none;
+	 margin-top:20px;
+ }
+ .nav-area li{
+ display:inline-block;}
+ 
+.nav-area li a{
+	 color:rgb(8, 8, 8);
+	 text-decoration: none;
+	 padding :5px 20px;
+	 font-family:poppins;
+ font-size:20px;}
+.nav-area li a:hover{
+	 background :#FFF;
+ color:#333;}
+.logo img
+ {
+	 margin-top:10px;
+width:130px;
+float:left;
+height:auto;
+	 
+ }
+
+.register h2 
+{  background-color:rgba(145, 139, 139, 0.5);
+	font-size:30px;
+	padding :3px 15px;
+	font-family:sans-serif;
+	color:balck;
+	float:center;
+}
+
+.register table{
+	
+	border-spacing:13px;
+	font-family:sans-serif;
+	font-size:25px;
+color:black;
+padding:2px;
+	
+}
+.register .paymentoption li input{
+	width:15px;
+	cursor:pointer;
+	height:15px;
+}
+
+.paymentoption li{
+	color:#fff;
+	 text-decoration: none;
+	 padding :2px 15px;
+	 font-family:poppins;
+ font-size:15px;
+	
+	
+}
+.main {
+	float:center;
+	background-color:rgba(80, 77, 77, 0.5);
+    width:480px;
+	height:480px;
+	margin:-35px auto -1px auto;
+}
+.register{
+	
+	width:100%;
+	margin:-3px;
+	
+	
+
+}
+.register table{
+    margin-top:-30px;
+}
+
+.register label{
+	font-family:sans-serif;
+		margin-top:0px;
+	font-size:20px;
+color:black;
+padding:2px;
+}
+.register input{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	height:40px;
+width: 250px;
+ box-shadow:2px  2px 15px;
+	 font-size :15px;
+	 padding:1em 4em 1em 1.5em;
+	 background-color:white;
+	 color:black;
+	 border:1px solid #ced4da ;
+
+	
+}
+
+.button2{
+	margin :-1% 15%;
+}
+.button2 table{
+border-spacing:30px;
+padding:15px;}
+
+.button2 table input {
+	height:50px;
+	width:100px;
+	
+	font-size:25px;
+}
+
+
+.schedule-table {
+	border-spacing:20px;
+padding:15px;
+	float:center;
+	margin-top:20px;
+    width:750px;
+	color:rgb(14, 14, 14);
+	background:rgb(255, 255, 255);
+	height:auto;
+	margin :-5% 7%;
+    border: 1px solid #092138;
+}
+.schedule-table label{
+	font-family:sans-serif;
+	font-size:25px;
+	color:black;
+}
+.schedule-table table {
+	border-spacing:20px;
+padding:15px;
+	float:center;
+	margin-top:20px;
+    width:700px;
+	color:rgb(14, 14, 14);
+	background:rgb(255, 255, 255);
+	height:auto;
+	margin :-5% 7%;
+    border: 1px solid #092138;
+}

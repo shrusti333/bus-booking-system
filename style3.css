@@ -1,0 +1,86 @@
+
+.wrapper{
+    width:950px;
+    margin:auto;
+    height:150px;
+    
+    }
+    body{
+    background-image:url("download.jpg");
+    
+    
+    background-size:100% 100%;}
+    .header{
+    
+    height:130vh;
+    background-size:cover;
+    background-position:center center;
+    position:relative}
+     .nav-area{
+         
+         float:right;
+         list-style:none;
+         margin-top:20px;
+     }
+     .nav-area li{
+     display:inline-block;}
+     
+    .nav-area li a{
+         color:rgb(8, 8, 8);;
+         text-decoration: none;
+         padding :5px 20px;
+         font-family:poppins;
+     font-size:20px;}
+    .nav-area li a:hover{
+         background :#FFF;
+     color:#333;}
+    .logo img
+     {
+         margin-top:10px;
+    width:130px;
+    float:left;
+    height:auto;
+         
+     }
+     .schedule-table label{
+        font-family:sans-serif;
+            margin-top:0px;
+        font-size:15px;
+    color:black;
+    padding:2px;
+    }
+     .schedule-table table {
+      color:black;
+      font-size:20px;
+        float:center;
+             width:800px;
+        background-color:rgba(80, 77, 77, 0.5);
+        height:auto;
+        margin :0.5% 10.5%;
+    border: 1px solid #ced4da;
+        margin-top:40px;
+       
+       
+    }
+    .button2 input{
+        width:200px;
+        margin:-1% 40%;
+       
+        font-size:20px;
+    }
+    .button2{
+        width:200px;
+        margin:-1% 20%;
+       
+        font-size:20px;
+    }
+    .button2 table{
+    border-spacing:30px;
+    padding:15px;}
+    
+    .button2 table input {
+        height:45px;
+        width:100px;
+        
+        font-size:15px;
+    }
