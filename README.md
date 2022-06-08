@@ -7,10 +7,10 @@ schedule
 ![Screenshot (108)](https://user-images.githubusercontent.com/94981001/172688705-b651454f-6a27-4369-8b88-5b483c3733c2.png)
  
  passenger info
- ![Screenshot (108)](https://user-images.githubusercontent.com/94981001/172688814-2d344121-f665-4939-9f17-21bc0344cd83.png)
+ ![Screenshot (109)](https://user-images.githubusercontent.com/94981001/172689162-a1fcd837-6257-456e-b80b-1532b55b977d.png)
 
 payment details
-![Screenshot (108)](https://user-images.githubusercontent.com/94981001/172688944-c50cce1f-6df6-4d42-b2a5-63b09e0a2a82.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/94981001/172689134-8b4c1981-aee0-45b5-840f-03bee2571a5c.png)
 
 receipt
 ![Screenshot (111)](https://user-images.githubusercontent.com/94981001/172689021-780c5884-3599-41ab-bd07-db52426d34b3.png)
